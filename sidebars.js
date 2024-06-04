@@ -36,7 +36,7 @@ const sidebars = {
     {
       type: 'category',
       label: 'Tutorial',
-      items: ['tutorial/tutorial.md'],
+      items: ['tutorial/tutorial'],
     },
     {
       type: 'category',
